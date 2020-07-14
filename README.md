@@ -1,4 +1,4 @@
-# hello-Github
+# Github
 Repository for Meous Inc.
 
 
